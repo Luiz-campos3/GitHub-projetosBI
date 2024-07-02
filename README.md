@@ -1,3 +1,9 @@
+
+Visão Geral do Dashboard
+
+![Captura de tela 2024-07-02 083931](https://github.com/Luiz-campos3/GitHub-projetosBI/assets/174439712/d5a54198-b3e3-44d9-a0d4-e7abfdb5bf96)
+
+
 Controle de Cargas - Dashboard Power BI
 
 Este repositório contém um dashboard desenvolvido no Power BI para o controle de cargas. O dashboard fornece uma visão abrangente e detalhada dos processos de gerenciamento de cargas, incluindo o status das notas fiscais, prazos de entrega e sazonalidade.
@@ -55,5 +61,3 @@ Se você quiser contribuir para este projeto, sinta-se à vontade para fazer um 
 
 Licença
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
-Visão Geral do Dashboard![Captura de tela 2024-07-02 083931](https://github.com/Luiz-campos3/GitHub-projetosBI/assets/174439712/d5a54198-b3e3-44d9-a0d4-e7abfdb5bf96)
