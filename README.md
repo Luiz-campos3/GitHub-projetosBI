@@ -184,5 +184,4 @@ https://www.microsoft.com/pt-br/download/details.aspx?id=58494
 * Utilize os filtros interativos para explorar os dados conforme necessário.
 ## Contribuição 
 ### Se você quiser contribuir para este projeto, sinta-se à vontade para fazer um fork do repositório e enviar um pull request com suas melhorias ou sugestões.
-## Licença
-### Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
